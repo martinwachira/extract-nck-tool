@@ -36,24 +36,24 @@ all_rows = []
 
 # loop through all table rows to get all table datas
 
-for nurses in table.find_all('tbody'):
-    rows = nurses.find_all('tr')
-    for row in rows:
-        nurseRecords = row.find('td').text
-        sleep(2)
-        print(nurseRecords)
+# for nurses in table.find_all('tbody'):
+#     rows = nurses.find_all('tr')
+#     for row in rows:
+#         nurseRecords = row.find('td').text
+#         sleep(2)
+#         print(nurseRecords)
 
-# for row_num in range(len(body_rows)):
-#     row = []
-#     for row_item in body_rows[row_num].find_all('td'):
-#         stripA = re.sub("(\xa0)|(\n)|,","",row_item.text)
-#         row.append(stripA)
-#
-# all_rows.append(row)
+for row_num in range(len(body_rows)):
+    row = []
+    for row_item in body_rows[row_num].find_all('td'):
+        stripA = re.sub("(\xa0)|(\n)|,","",row_item.text)
+        row.append(stripA)
+
+all_rows.append(row)
 
 # match each record to its field name
 # cols = ['name', 'license', 'xxx', 'xxxx']
-df = pd.DataFrame(data=nurseRecords, columns=headings)
+df = pd.DataFrame(data=all_rows, columns=headings)
 
 # print data
 df.head()
