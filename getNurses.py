@@ -1,5 +1,5 @@
 from selenium import webdriver
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 from time import sleep
 import pandas as pd
 import requests
@@ -17,7 +17,7 @@ br.find_element_by_xpath("//*[@id='provider']/div[1]/div/div/div/button").click(
 sleep(15)
 
 content = br.page_source
-soup = BeautifulSoup(content, 'lxml')
+soup = bs(content, 'lxml')
 
 oTab = soup.find('table')
 print('length of tables ', len(oTab))
@@ -54,3 +54,5 @@ time_now = datetime.now().strftime("%H:%M:%S")
 time_now = time_now.replace(':','-')
 time_now = time_now.replace(' ','_')
 df.to_csv("nurses "+time_now+".csv", index=False)
+
+br.quit()

@@ -922,3 +922,25 @@ JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERRO
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1615979929791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileIr5cCY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615979956375	Marionette	INFO	Listening on port 50292
+1615979956784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615980014025	Marionette	INFO	Stopped listening on port 50292
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615980024424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile0v0Gf2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615980032705	Marionette	INFO	Listening on port 50480
+1615980032840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615980058586	Marionette	INFO	Stopped listening on port 50480
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
