@@ -944,3 +944,452 @@ JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/b
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1615981481562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileENDqlU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615981487634	Marionette	INFO	Listening on port 52051
+1615981487891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615981719132	Marionette	INFO	Stopped listening on port 52051
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615981743318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileaST4zD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615981750730	Marionette	INFO	Listening on port 52381
+1615981751290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615981779247	Marionette	INFO	Stopped listening on port 52381
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615981836843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilehhKCOF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615981846725	Marionette	INFO	Listening on port 52611
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615981846939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615981873714	Marionette	INFO	Stopped listening on port 52611
+1615985226430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile38LByD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615985232257	Marionette	INFO	Listening on port 56765
+1615985233136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615985480061	Marionette	INFO	Stopped listening on port 56765
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615985742665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilelJvqfi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615985750040	Marionette	INFO	Listening on port 57622
+1615985750519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615985813809	Marionette	INFO	Stopped listening on port 57622
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615985987064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileQ8eHbb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615985992205	Marionette	INFO	Listening on port 57952
+1615985992315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615986060959	Marionette	INFO	Stopped listening on port 57952
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986086184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileA7JLj6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986091373	Marionette	INFO	Listening on port 58135
+1615986091575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615986180646	Marionette	INFO	Stopped listening on port 58135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986219561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilemsI6bl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986225992	Marionette	INFO	Listening on port 58342
+1615986226394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615986256143	Marionette	INFO	Stopped listening on port 58342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986295606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofiletC9vmk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986300992	Marionette	INFO	Listening on port 58509
+1615986301449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615986331194	Marionette	INFO	Stopped listening on port 58509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986402757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile5UJM1p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986408191	Marionette	INFO	Listening on port 58696
+1615986408567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615986575802	Marionette	INFO	Stopped listening on port 58696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986593527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileR3b4jh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986600466	Marionette	INFO	Listening on port 58951
+1615986600889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615986624624	Marionette	INFO	Stopped listening on port 58951
+[Parent 4672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615986936740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileO7J6A0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615986964985	Marionette	INFO	Listening on port 59397
+1615986965135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615987005290	Marionette	INFO	Stopped listening on port 59397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615987046313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileM0e2Kc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615987065872	Marionette	INFO	Listening on port 59557
+1615987066315	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21496, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615987600358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilexq1GKo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615987606581	Marionette	INFO	Listening on port 60132
+1615987606726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 11324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: _getStore/this._getStoreTask<@resource://gre/modules/CrashManager.jsm:831:25
+_getStore@resource://gre/modules/CrashManager.jsm:883:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:464:30
+addCrash@resource://gre/modules/CrashManager.jsm:486:7
+addCrash@resource://gre/modules/CrashService.jsm:231:41
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+[Parent 11324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615987882852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile8p6x6x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615987888829	Marionette	INFO	Listening on port 60400
+1615987889091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615987944722	Marionette	INFO	Stopped listening on port 60400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615987969631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilemJ8o6i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615987975166	Marionette	INFO	Listening on port 60520
+1615987975546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615988013959	Marionette	INFO	Stopped listening on port 60520
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615988036292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileMf7YWP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988041478	Marionette	INFO	Listening on port 60623
+1615988041553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: save/<@resource://gre/modules/CrashManager.jsm:1130:32
+save@resource://gre/modules/CrashManager.jsm:1137:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:466:21
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615988146722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile5lVaNj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988152142	Marionette	INFO	Listening on port 60764
+1615988152665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 9588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: save/<@resource://gre/modules/CrashManager.jsm:1130:32
+save@resource://gre/modules/CrashManager.jsm:1137:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:466:21
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+[Parent 9588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615988369242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofile3H5lC5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988374225	Marionette	INFO	Listening on port 60975
+1615988374484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 21372, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 21372, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: _getStore/this._getStoreTask<@resource://gre/modules/CrashManager.jsm:831:25
+_getStore@resource://gre/modules/CrashManager.jsm:883:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:464:30
+addCrash@resource://gre/modules/CrashManager.jsm:486:7
+addCrash@resource://gre/modules/CrashService.jsm:231:41
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "CrashService waiting for content crash ping to be sent"
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615988477060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileW2xfe7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988482098	Marionette	INFO	Listening on port 63079
+1615988482466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: _getStore/this._getStoreTask<@resource://gre/modules/CrashManager.jsm:831:25
+_getStore@resource://gre/modules/CrashManager.jsm:883:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:464:30
+addCrash@resource://gre/modules/CrashManager.jsm:486:7
+addCrash@resource://gre/modules/CrashService.jsm:231:41
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+[Parent 16132, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 831: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager1615988735903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileu4xEnA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988741800	Marionette	INFO	Listening on port 63283
+1615988742144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615988768765	Marionette	INFO	Stopped listening on port 63283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615988838089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofiledoAdGE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988842864	Marionette	INFO	Listening on port 63422
+1615988843339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615988871391	Marionette	INFO	Stopped listening on port 63422
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615988978357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileG5ZLyk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615988983438	Marionette	INFO	Listening on port 63580
+1615988983609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615989206932	Marionette	INFO	Stopped listening on port 63580
+1615989268203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileUnkoL1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615989273142	Marionette	INFO	Listening on port 63803
+1615989273443	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615989300061	Marionette	INFO	Stopped listening on port 63803
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615989341315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileEn9G7Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615989346320	Marionette	INFO	Listening on port 63914
+1615989346707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615989373188	Marionette	INFO	Stopped listening on port 63914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615989431785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileWyb5zc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615989436748	Marionette	INFO	Listening on port 64037
+1615989437097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615989463632	Marionette	INFO	Stopped listening on port 64037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615989527518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilenXhi6i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615989532625	Marionette	INFO	Listening on port 64171
+1615989532849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615989559740	Marionette	INFO	Stopped listening on port 64171
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615990338941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofiler2hI10"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615990344144	Marionette	INFO	Listening on port 64947
+1615990344200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1615990370971	Marionette	INFO	Stopped listening on port 64947
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615991391193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileYVke60"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615991396631	Marionette	INFO	Listening on port 49385
+1615991396932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615991423850	Marionette	INFO	Stopped listening on port 49385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615991556497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofilexCBl93"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615991560399	Marionette	INFO	Listening on port 49553
+1615991560724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615991587622	Marionette	INFO	Stopped listening on port 49553
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615991633537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileRirTTF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615991637694	Marionette	INFO	Listening on port 49669
+1615991637814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 1492, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1615991798882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileFQB6SX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615991804289	Marionette	INFO	Listening on port 49833
+1615991804709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615991997724	Marionette	INFO	Stopped listening on port 49833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615992036568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileTypee8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615992042026	Marionette	INFO	Listening on port 50039
+1615992042331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 10268, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2294: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashService waiting for content crash ping to be sent
+          Phase: profile-before-change
+          State: (none)
+WARNING: NotAllowedError: Shutting down and refusing additional I/O tasks
+WARNING: save/<@resource://gre/modules/CrashManager.jsm:1130:32
+save@resource://gre/modules/CrashManager.jsm:1137:7
+addCrash/promise<@resource://gre/modules/CrashManager.jsm:466:21
+observe@resource://gre/modules/AsyncShutdown.jsm:573:16
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 1130: NotAllowedError: Shutting down and refusing additional I/O tasks
+1615992178713	Marionette	INFO	Stopped listening on port 50039
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615992264948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wcr\\AppData\\Local\\Temp\\rust_mozprofileFGs5fu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615992270188	Marionette	INFO	Listening on port 50272
+1615992270688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://osp.nckenya.com/assets/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js, line 7: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1615992432795	Marionette	INFO	Stopped listening on port 50272
